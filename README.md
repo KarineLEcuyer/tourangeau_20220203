@@ -2,4 +2,4 @@
 
 Bonojour je suis mik en tim. mon casier le **1412**. jaime bien gamer : rocket, valorent. 
 
-![photo](image.jpg)
+![photo](medias/MicrosoftTeams-image.png)
